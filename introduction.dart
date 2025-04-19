@@ -1,6 +1,6 @@
 void main() {
-  String name = "Jawwad";
-  int age = 23;
+  String name = "Ahmed";
+  int age = 19;
   String stdclass = "Matric";
   double per = 56.5;
 
